@@ -4,4 +4,4 @@ A simple xylophone app.
 Built using flutter ,which contains diffrent audio files 
 when a button is pressed the audio will be played.
 
-<img src="img/smaple" width="300">
+<img src="img/smaple.png" width="300">
